@@ -23,3 +23,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Gaining knowledge of setting headers
 - [ ] This item is not complete
 - [X] This repository is finished
+- [x] This will always be completed  
