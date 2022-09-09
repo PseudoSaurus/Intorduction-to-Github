@@ -17,3 +17,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Practing Task List Creation
+- [x] Making the repository
+- [x] Gaining knowledge of setting headers
+- [ ] This item is not complete
+- [X] This repository is finished
